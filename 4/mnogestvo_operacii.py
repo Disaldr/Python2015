@@ -9,6 +9,7 @@ shevrole_owner = {'sam', 'edit', 'semen', 'petr'}
 work_near = {'konstantin', 'vladislav', 'sam', 'petr', 'edit'}
 
 live_near = {'john', 'vladislav', 'olga', 'mike', 'grant', 'covid', 'bilbo' }
-# сначала нам нужно объединить всех, кто живет неподалеку, и работает неподалеку
+
+#Необходио найти подозреваемого по всем трём пунктам, используя операции с множествами
 
 
