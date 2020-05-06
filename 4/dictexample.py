@@ -1,4 +1,4 @@
-family = {"dad": 60, "mother": 55, "aunt": 50}
+family = {"dad": 60, "mother": 55, "aunt": 50, 'dad':40}
 # print(family['dad'])
 # family['uncle'] = 51
 # print(*family)
@@ -15,3 +15,4 @@ if 'dad' in family.keys():
     print('dad')
 if 50 in family.values():
     print('50')
+
