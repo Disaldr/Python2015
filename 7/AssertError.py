@@ -11,3 +11,7 @@ car = {'марка': "volvo", 'цена': 2000}
 
 skidka = float(input())
 print(apply_discount(car, skidka))
+
+file = open('1.txt')
+content = file.read().split("\n")
+print(content)
